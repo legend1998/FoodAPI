@@ -1,0 +1,19 @@
+{
+  "name": "fooddb",
+  "version": "1.0.0",
+  "description": "this is food database for food app like zomato and swiggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
